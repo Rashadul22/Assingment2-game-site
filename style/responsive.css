@@ -13,6 +13,7 @@
 @media screen and (max-width: 425px) {
   .nav-container {
     flex-direction: column;
+    align-items: center;
   }
 
   .nav-items-container {
