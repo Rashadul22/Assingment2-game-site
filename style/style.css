@@ -150,3 +150,42 @@ nav {
   text-transform: uppercase;
   border: 0;
 }
+
+.cards {
+  text-align: center;
+  align-items: center;
+  margin-top: 130px;
+}
+.cards-conatiner {
+  display: flex;
+  margin-left: 480px;
+  gap: 24px;
+}
+.cards-conatiner {
+  color: #534c64;
+  font-family: Work Sans;
+  font-size: 20px;
+  font-weight: 500;
+}
+.section-title {
+  color: #0b0223;
+  font-family: Work Sans;
+  font-size: 48px;
+  font-weight: 700;
+}
+.section-title span {
+  background: linear-gradient(180deg, #f948b2 0%, #8758f1 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: Work Sans;
+  font-size: 48px;
+  font-weight: 700;
+}
+.section-description {
+  color: #534c64;
+  font-family: Work Sans;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30px;
+}
