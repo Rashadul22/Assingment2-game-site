@@ -289,3 +289,32 @@ nav {
 .game-menu {
   margin-top: 500px;
 }
+.game-btn button {
+  width: 243px;
+  height: 80px;
+  border-radius: 50px;
+  background: #fff;
+  border: 3px solid #fff;
+  color: #000;
+  font-size: 16px;
+  font-weight: bold;
+
+  position: relative;
+  cursor: pointer;
+  overflow: hidden;
+  transition: border-color 0.3s, color 0.3s;
+}
+.game-btn img {
+  width: 24px;
+  height: 24px;
+}
+.game-btn button:hover {
+  border-color: rgb(255, 0, 153);
+  color: rgb(255, 0, 153);
+}
+.btn-game1 {
+  margin-left: 500px;
+}
+.btn-game6 {
+  margin-left: 600px;
+}
