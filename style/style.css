@@ -286,3 +286,6 @@ nav {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
+.game-menu {
+  margin-top: 500px;
+}
