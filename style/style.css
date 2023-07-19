@@ -89,10 +89,12 @@ nav {
   background-size: cover;
 }
 .banner-item {
+  margin-left: 200px;
   width: 50%;
   text-align: center;
 }
 .banner-pic {
+  margin-left: 800px;
   position: relative;
   width: 100%;
   height: 200px;
